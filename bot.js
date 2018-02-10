@@ -1,3 +1,5 @@
+const Discord = require('discord.js');
+const client = new Discord.Client();
 package io.github.spugn.Sargo;
 
 import io.github.spugn.Sargo.Listeners.MessageListener;

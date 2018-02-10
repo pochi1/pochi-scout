@@ -19,7 +19,7 @@
             BotOwnerID: Bot Owner's ID (aka, the only person who can use 'update' and 'stop').
     <-->
     <BotSettings>
-        <Token>Mzk3NTgwNzAwMDE1OTE5MTA0.DSyXJQ.Tu60DclaoG_MJk3kUczrIDn1uH8</Token>
+        <Token>Mzk3NTgwNzAwMDE1OTE5MTA0.DSyDeQ.wmvvQ9OIjL1WmvaxTXo0OEFc49U</Token>
         <NoGUI>true</NoGUI>
         <GitHubDataRepository>https://raw.githubusercontent.com/Expugn/S-argo_Data_v2/master/</GitHubDataRepository>
         <BotOwnerID>245740563196805120</BotOwnerID>
@@ -38,6 +38,19 @@
         <DeleteUserMessage>false</DeleteUserMessage>
 
         <IgnoredChannels>
+            <iChannel channelName="general"/>
+            <iChannel channelName="main-chat"/>
+            <iChannel channelName="guild-ranking"/>
+            <iChannel channelName="recruiment-chat"/>
+            <iChannel channelName="exposed"/>
+            <iChannel channelName="ladies-channel"/>
+            <iChannel channelName="off-topic"/>
+            <iChannel channelName="sao"/>
+            <iChannel channelName="pulls"/>
+            <iChannel channelName="ranking"/>
+            <iChannel channelName="bot-playground"/>
+            <iChannel channelName="nsfw"/>
+            <iChannel channelName="mushoku-tensei"/>
             <iChannel channelName="ignored-channel"/>
         </IgnoredChannels>
     </CommandSettings>
